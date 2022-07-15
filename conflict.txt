@@ -1,1 +1,2 @@
-this line is a conflict!
+This line was a conflict, and has been resolved.
+
